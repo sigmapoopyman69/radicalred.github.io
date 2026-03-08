@@ -39,11 +39,11 @@
         <script>
             EJS_player = "#game";
             EJS_core = "gba";
-            EJS_gameName = "PkmnRadicalRed";
+            EJS_gameName = "PkmnFireRed";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
             EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
-            EJS_gameUrl = "Pokemon - FireRed Version (USA, Europe) (patched).gba";
+            EJS_gameUrl = "Pokemon - FireRed Version (USA, Europe).gba";
 
             function goFullscreen() {
                 const elem = document.getElementById("container");
